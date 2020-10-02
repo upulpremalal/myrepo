@@ -1,0 +1,26 @@
+button{
+    background-color: black;
+    color: rgb(242, 248, 248);
+}
+.body1{
+    background-color: rgb(209, 241, 159);
+}
+.body2{
+    background-color: rgb(12, 19, 2);
+}
+.fra{
+    background-color: darkgray;
+}
+.size{
+    width:200px;
+    height:180px;
+}
+.font{
+    font-size:12px;
+}
+.font1{
+    font-size:11px;
+}
+p{
+    font-size: 11px;
+}
